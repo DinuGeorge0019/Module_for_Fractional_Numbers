@@ -12,6 +12,7 @@ The following features are present along the modules:
 - simplification of a fraction
 - comparing two fractional numbers
 - printing and reading a given fractional number from user
+- get the absolute value of a fractional number
 
 # For educational purpose
 We can use the given modules to implement the Gaussian elimination with partial and total pivoting.
